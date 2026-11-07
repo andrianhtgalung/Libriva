@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="libGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff6090"/>
+      <stop offset="55%" stop-color="#ec407a"/>
+      <stop offset="100%" stop-color="#880e4f"/>
+    </linearGradient>
+    <linearGradient id="pageGrad" x1="12" y1="16" x2="52" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#fce4ec"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#libGrad)"/>
+  <circle cx="50" cy="14" r="18" fill="rgba(255,255,255,0.12)"/>
+  <!-- Open Book Base -->
+  <path d="M13 21C13 18.7909 14.7909 17 17 17H28C30.2091 17 32 18.7909 32 21V46C32 44.3431 30.6569 43 29 43H16C14.3431 43 13 41.6569 13 40V21Z" fill="url(#pageGrad)"/>
+  <path d="M51 21C51 18.7909 49.2091 17 47 17H36C33.7909 17 32 18.7909 32 21V46C32 44.3431 33.3431 43 35 43H48C49.6569 43 51 41.6569 51 40V21Z" fill="#ffffff" fill-opacity="0.92"/>
+  <!-- Book Spine & Lines -->
+  <path d="M32 18V46" stroke="#ad1457" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M18 25H27M18 30H27M18 35H25" stroke="#ec407a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M37 25H46M37 30H46M37 35H44" stroke="#ad1457" stroke-width="2" stroke-linecap="round" stroke-opacity="0.7"/>
+  <!-- Bookmark Ribbon -->
+  <path d="M41 16V28L44 25.5L47 28V16H41Z" fill="#ffeb3b"/>
+  <!-- Bottom Wave -->
+  <path d="M14 47C20 45 27 45 32 48C37 45 44 45 50 47" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
