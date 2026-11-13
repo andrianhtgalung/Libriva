@@ -51,7 +51,7 @@
     members: [
       { id_anggota: 1, nim: '3312601037', nama: 'Rosenta Marito Rajagukguk', kelas: 'IF1B', no_hp: '081270001037', hp: '081270001037', email: 'rosenta.3312601037@students.polibatam.ac.id', pass: '123456', status_aktif: 'Aktif' },
       { id_anggota: 2, nim: '3312601036', nama: 'Andrian Paskah Hutagalung', kelas: 'IF1B', no_hp: '081270001036', hp: '081270001036', email: 'andrian.3312601036@students.polibatam.ac.id', pass: '123456', status_aktif: 'Aktif' },
-      { id_anggota: 3, nim: '3312601038', nama: 'Syela Maharani Putri', kelas: 'IF1B', no_hp: '081270001038', hp: '081270001038', email: 'syela.3312601038@students.polibatam.ac.id', pass: '123456', status_aktif: 'Aktif' },
+      { id_anggota: 3, nim: '3312601038', nama: 'Syela Caysia Cameela', kelas: 'IF1B', no_hp: '081270001038', hp: '081270001038', email: 'syela.3312601038@students.polibatam.ac.id', pass: '123456', status_aktif: 'Aktif' },
       { id_anggota: 4, nim: '3312601039', nama: 'Fajar Nugroho Pratama', kelas: 'IF1B', no_hp: '081270001039', hp: '081270001039', email: 'fajar.3312601039@students.polibatam.ac.id', pass: '123456', status_aktif: 'Aktif' },
       { id_anggota: 5, nim: '3312601040', nama: 'Nabila Azzahra', kelas: 'IF1B', no_hp: '081270001040', hp: '081270001040', email: 'nabila.3312601040@students.polibatam.ac.id', pass: '123456', status_aktif: 'Aktif' }
     ],
